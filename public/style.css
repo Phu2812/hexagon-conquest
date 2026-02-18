@@ -1,0 +1,25 @@
+.stone-clash {
+  background-color: #2c3e50;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  border: 1px solid #ecf0f1;
+}
+
+.stone-clash h1 {
+  font-size: 2em;
+  text-align: center;
+}
+
+.stone-clash button {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.stone-clash button:hover {
+  background-color: #c0392b;
+}
